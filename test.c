@@ -14,5 +14,7 @@ void main()
 	printf("mod 4");
 	printf("mod 5");
 	
+	printf("mod 6");
+
 	printf("mod 7");
 }
