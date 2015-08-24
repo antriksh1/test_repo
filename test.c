@@ -17,4 +17,6 @@ void main()
 	printf("mod 6");
 
 	printf("mod 7");
+	
+	printf("mod 8");
 }
